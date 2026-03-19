@@ -1,0 +1,21 @@
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit (Sizda aynan shu papka bor)
+.venv/
+venv/
+ENV/
+
+# VS Code sozlamalari
+.vscode/
+
+# Maxfiy ma'lumotlar (Tokenlar va parollar)
+.env
+*.log
+
+# Video yuklanganda hosil bo'ladigan vaqtinchalik fayllar
+*.mp4
+*.m4a
+*.webm
